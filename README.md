@@ -4,7 +4,7 @@
 
 **Full-Stack Web Developer | Building Scalable Government Systems & Modern Web Applications**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-roihantauhid.vercel.app-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://roihantauhid.vercel.app/)
+[![Portfolio]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Roihan_Tauhid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roihantauhid)
 [![Email](https://img.shields.io/badge/Email-roihanntauhidd@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roihanntauhidd@gmail.com)
 
