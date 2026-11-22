@@ -4,7 +4,7 @@
 
 **Full-Stack Web Developer | Building Scalable Government Systems & Modern Web Applications**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-roihantauhid.vercel.app-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://roihantauhid.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://roihantauhid.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Roihan_Tauhid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roihantauhid)
 [![Email](https://img.shields.io/badge/Email-roihanntauhidd@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roihanntauhidd@gmail.com)
 
@@ -33,6 +33,8 @@ Currently, I serve as a **Programmer at Badan Kepegawaian Negara (BKN Pusat)**, 
 | :--- | :--- | :--- |
 | **🔒 SINTESA BKN**<br>*ASN Competency Institution Accreditation System* | • Built deterministic accreditation workflows from Self-Assessment (SAQ) to automated SK/certificate issuance.<br>• Implemented multi-role access control (9 roles) and multi-database integration with central BKN services. | `Python`, `Django 5`, `django-fsm-2`, `Tailwind CSS`, `Alpine.js`, `HTMX`, `PostgreSQL (Multi-DB)`, `Celery`, `Redis` |
 | **🔒 Portal Penkom ASN**<br>*National Civil Servant Competency Assessment Portal* | • Developed modular, role-based frontend interfaces for assessment scheduling, participant enrollment, and reporting.<br>• Integrated SIASN SSO (Keycloak), BSrE electronic signatures (TTE), and SIMPONI PNBP billing workflows. | `Astro v7`, `React 19`, `Tailwind CSS v4`, `RTK Query`, `Go (Fiber)`, `PostgreSQL`, `Redis`, `Keycloak SSO` |
+
+---
 
 ### 🚀 Featured Open-Source & Personal Projects
 
@@ -123,11 +125,10 @@ Currently, I serve as a **Programmer at Badan Kepegawaian Negara (BKN Pusat)**, 
 
 ---
 
-### 📊 GitHub Activity
+### 📊 Most Used Languages
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RoihanTauhid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Roihan's GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoihanTauhid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoihanTauhid&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
